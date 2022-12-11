@@ -1,5 +1,3 @@
-# npx parcel [index.html]
-
 [![Twitter: maki_saki](https://img.shields.io/twitter/follow/zaty_Akiyama?style=social)](https://twitter.com/zaty_Akiyama)
 
 白ごまんじゅうの個人ページで自己紹介しています。<br>
